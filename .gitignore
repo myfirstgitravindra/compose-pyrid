@@ -1,0 +1,14 @@
+# Node
+node_modules/
+dist/
+
+# PHP / Composer
+/vendor/
+
+# Python
+__pycache__/
+*.pyc
+
+# Env / OS
+.env
+.DS_Store
